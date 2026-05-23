@@ -1,0 +1,24 @@
+body {
+    font-family: Arial;
+    background: #f3f3f3;
+    text-align: center;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+button {
+    padding: 10px 20px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+#result {
+    margin-top: 20px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    background: white;
+    padding: 20px;
+}
